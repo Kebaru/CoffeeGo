@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Coffee Go</string>
+    <string name="head_1">Привет!</string>
+    <string name="body_1">Coffee toGo – это приложение в котором вы можете заказать кофе онлайн и забрать его в близжайшей к вам кофейне.
+Сейчас расскажем как оно работает</string>
+</resources>
